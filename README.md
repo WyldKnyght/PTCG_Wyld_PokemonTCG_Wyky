@@ -1,9 +1,8 @@
-**News & Updates:**  
-This category will focus on providing the latest news, announcements, and updates related to the Pokémon TCG.
+__**News & Updates:**__  
+Looking for the the latest news, announcements, and updates related to the Pokémon TCG.  
+[Click Here](./New_&_Updates.md)  
 
 **Gameplay:**
-This category will cover all aspects of gameplay, rules, and strategies. It can include subcategories such as:
-
 - **Rules & Basics:**  
 Provide resources and guides on how to play the Pokémon TCG, turn structure, card types, and basic game mechanics.
 
