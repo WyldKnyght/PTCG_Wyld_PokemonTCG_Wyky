@@ -1,8 +1,8 @@
-__**News & Updates:**__  
+# **News & Updates:**  
 Looking for the the latest news, announcements, and updates related to the Pokémon TCG.  
 [Click Here](./New_&_Updates.md)  
 
-**Gameplay:**
+# **Gameplay:**
 - **Rules & Basics:**  
 Provide resources and guides on how to play the Pokémon TCG, turn structure, card types, and basic game mechanics.
 
@@ -12,7 +12,7 @@ Offer guidance on constructing competitive decks, card synergy, deck archetypes,
 - **Metagame Analysis:**  
 Provide analysis and insights into the current metagame trends, popular deck choices, and strategies used by successful players.
 
-**Resources & Tools:**  
+# **Resources & Tools:**  
 This category will offer additional resources and tools to enhance the Pokémon TCG playing experience. It can include subcategories such as:
 
 - **Deck Builders:**  
@@ -21,7 +21,7 @@ This category will offer additional resources and tools to enhance the Pokémon 
 - **Probability Calculators:**  
   Offer tools that calculate probabilities for drawing specific cards or executing certain game scenarios.
 
-**Collecting & Trading:**  
+# **Collecting & Trading:**  
 This category will focus on the collecting and trading aspects of the Pokémon TCG. It can include subcategories such as:
 
 - **Card Collection Management:**  
@@ -33,7 +33,7 @@ This category will focus on the collecting and trading aspects of the Pokémon T
 - **Price Trackers:**  
   Provide tools or links to track card prices in the secondary market, helping users stay updated on card values.
 
-**Communities:**  
+# **Communities:**  
 This category will provide a space for Pokémon TCG players to connect and engage with each other. It can include subcategories such as:
 
 - **Forums:**  
@@ -45,7 +45,7 @@ This category will provide a space for Pokémon TCG players to connect and engag
 - **Local Events:**  
   Share information about local Pokémon TCG events, tournaments, and meetups.
 
-**Developers:**  
+# **Developers:**  
 This category will cater to developers and provide resources for APIs, GitHub projects, and other development-related aspects. It can include subcategories such as:
 
 - **API Documentation:**  
