@@ -1,8 +1,10 @@
 # **News & Updates:**  
 Looking for the the latest news, announcements, and updates related to the Pokémon TCG.  
-[Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/blob/main/News_%26_Updates.md))  
+[Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/blob/main/News_%26_Updates.md)  
 
 # **Gameplay:**
+[Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/blob/main/gameplay.md)  
+
 - **Rules & Basics:**  
 Provide resources and guides on how to play the Pokémon TCG, turn structure, card types, and basic game mechanics.
 
