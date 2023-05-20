@@ -24,6 +24,8 @@ This category will offer additional resources and tools to enhance the Pokémon 
 - **Probability Calculators:**  
   Offer tools that calculate probabilities for drawing specific cards or executing certain game scenarios.
 
+[Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/blob/main/resources_&_tools)
+
 # **Collecting & Trading:**  
 This category will focus on the collecting and trading aspects of the Pokémon TCG. It can include subcategories such as:
 
