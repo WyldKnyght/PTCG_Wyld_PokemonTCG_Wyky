@@ -21,6 +21,7 @@ Gary is one of the largest Pokémon card collectors and has been involved with P
 [YouTube](https://www.youtube.com/user/garyis2000)
 
 ### RealBreakingNate
+popular content creator and YouTuber known for his focus on the Pokémon Trading Card Game (TCG). He creates videos showcasing card openings, pack battles, deck profiles, and other Pokémon TCG-related content.  
 [YouTube](https://www.youtube.com/c/RealBreakingNate/videos)
 
 ## Local Events:
