@@ -59,3 +59,5 @@ This category will cater to developers and provide resources for APIs, GitHub pr
 
 - **GitHub Projects:**  
   Showcase open-source projects and repositories on GitHub related to the Pokémon TCG. Developers can contribute to existing projects or create their own.
+
+[Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/edit/main/developers.md)
