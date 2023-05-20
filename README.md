@@ -1,6 +1,6 @@
 # **News & Updates:**  
 Looking for the the latest news, announcements, and updates related to the Pokémon TCG.  
-[Click Here](./New_&_Updates.md)  
+[Click Here]([./New_&_Updates.md](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/blob/main/News_%26_Updates.md))  
 
 # **Gameplay:**
 - **Rules & Basics:**  
