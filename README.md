@@ -50,9 +50,6 @@ This category will cater to developers and provide resources for APIs, GitHub pr
 
 - **API Documentation:**  
   Provide documentation, guides, and examples for developers interested in using Pokémon TCG-related APIs.
-  - Pokémon TCG API: allows developers to ingest card data programatically (https://pokemontcg.io/)
-  - Pokepy: A Python wrapper for PokéAPI (https://pokeapi.co)
-
 
 - **SDKs and Libraries:**  
   Offer software development kits (SDKs) or libraries that developers can use to integrate Pokémon TCG functionality into their own projects.
