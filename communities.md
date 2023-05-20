@@ -15,8 +15,9 @@ Discuss the battling and collecting of Pokémon Cards!
 
 ## Social Media:
 
-###Gary King Pokémon
-[Instagram](https://www.instagram.com/realkingpokemon/)
+### Gary King Pokémon  
+Gary is one of the largest Pokémon card collectors and has been involved with Pokémon since the beginning of the franchise.
+[Instagram](https://www.instagram.com/realkingpokemon/)  
 [YouTube](https://www.youtube.com/user/garyis2000)
 
 ### RealBreakingNate
