@@ -38,6 +38,8 @@ This category will focus on the collecting and trading aspects of the Pokémon T
 - **Price Trackers:**  
   Provide tools or links to track card prices in the secondary market, helping users stay updated on card values.
 
+[Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/blob/main/collecting_&_trading.md)
+
 # **Communities:**  
 This category will provide a space for Pokémon TCG players to connect and engage with each other. It can include subcategories such as:
 
@@ -49,6 +51,8 @@ This category will provide a space for Pokémon TCG players to connect and engag
 
 - **Local Events:**  
   Share information about local Pokémon TCG events, tournaments, and meetups.
+
+[Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/blob/main/communities.md)
 
 # **Developers:**  
 This category will cater to developers and provide resources for APIs, GitHub projects, and other development-related aspects. It can include subcategories such as:
