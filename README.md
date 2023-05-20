@@ -18,6 +18,9 @@ Provide analysis and insights into the current metagame trends, popular deck cho
 # **Resources & Tools:**  
 This category will offer additional resources and tools to enhance the Pokémon TCG playing experience. It can include subcategories such as:
 
+- **Comprehensive TCG Resources**
+  Comprehensive resource providing detailed information, references, and resources for the Pokémon Trading Card Game.  
+  
 - **Deck Builders:**  
   Provide tools for users to build and test decks, including card suggestions, filters, and synergy analyzers.
 
