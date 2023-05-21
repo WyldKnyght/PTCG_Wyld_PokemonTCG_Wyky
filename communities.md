@@ -15,14 +15,27 @@ Discuss the battling and collecting of Pokémon Cards!
 
 ## Social Media:
 
+### The Pokémon Company International!  
+Pokémon TCG Official Social Media Sites  
+[Instagram - @pokemontcg](https://www.instagram.com/pokemon/)  
+[Twitter -@pokemomtcg](https://twitter.com/Pokemontcg)  
+[Facebook - @pokemontcg](https://www.facebook.com/PokemonTCG/)  
+[YouTube - @pokemon](https://www.youtube.com/@pokemon)  
+
 ### Gary King Pokémon  
 Gary is one of the largest Pokémon card collectors and has been involved with Pokémon since the beginning of the franchise.  
-[Instagram](https://www.instagram.com/realkingpokemon/)  
-[YouTube](https://www.youtube.com/user/garyis2000)
+[Instagram - @realkingpokemon](https://www.instagram.com/realkingpokemon/)  
+[YouTube - @garyis2000](https://www.youtube.com/user/garyis2000)  
 
-### RealBreakingNate
-popular content creator and YouTuber known for his focus on the Pokémon Trading Card Game (TCG). He creates videos showcasing card openings, pack battles, deck profiles, and other Pokémon TCG-related content.  
-[YouTube](https://www.youtube.com/c/RealBreakingNate/videos)
+### RealBreakingNate  
+Popular content creator and YouTuber known for his focus on the Pokémon Trading Card Game (TCG). He creates videos showcasing card openings, pack battles, deck profiles, and other Pokémon TCG-related content.  
+[YouTube - @realbreakingnate](https://www.youtube.com/c/RealBreakingNate/videos)  
 
-## Local Events:
-Share information about local Pokémon TCG events, tournaments, and meetups.
+### Tricky Gym  
+Andrew Mahone is the trainer behind the content, creating competitive content that helps players improve at the card game. His videos are often focused on in-depth deck profiles and PTCGO gameplay.  
+[YouTube - @trickygym](https://www.youtube.com/@TrickyGym)    
+
+### Unlisted Leaf  
+Michale Andersen is a popular Pokémon TCG (Trading Card game) YouTuber with an extensive collection. Most of his video content is based on him buying Pokémon cards and then opening them.  
+[YouTube - @unlistedleaf](https://www.youtube.com/@UnlistedLeaf/)  
+
