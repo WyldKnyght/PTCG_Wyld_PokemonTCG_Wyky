@@ -1,6 +1,7 @@
 # **News & Updates:**  
 Looking for the the latest news, announcements, and updates related to the Pokémon TCG.  
 [Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/blob/main/News_%26_Updates.md)  
+&nbsp;  
 
 # **Gameplay:**
 
@@ -14,6 +15,7 @@ Offer guidance on constructing competitive decks, card synergy, deck archetypes,
 Provide analysis and insights into the current metagame trends, popular deck choices, and strategies used by successful players.
 
 [Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/blob/main/gameplay.md)  
+&nbsp;  
 
 # **Resources & Tools:**  
 This category will offer additional resources and tools to enhance the Pokémon TCG playing experience. It can include subcategories such as:
@@ -27,7 +29,8 @@ This category will offer additional resources and tools to enhance the Pokémon 
 - **Probability Calculators:**  
   Offer tools that calculate probabilities for drawing specific cards or executing certain game scenarios.
 
-[Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/blob/main/resources_&_tools)
+[Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/blob/main/resources_&_tools)  
+&nbsp;  
 
 # **Collecting & Trading:**  
 This category will focus on the collecting and trading aspects of the Pokémon TCG. It can include subcategories such as:
@@ -41,7 +44,8 @@ This category will focus on the collecting and trading aspects of the Pokémon T
 - **Price Trackers:**  
   Provide tools or links to track card prices in the secondary market, helping users stay updated on card values.
 
-[Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/blob/main/collecting_&_trading.md)
+[Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/blob/main/collecting_&_trading.md)  
+&nbsp;  
 
 # **Communities:**  
 This category will provide a space for Pokémon TCG players to connect and engage with each other. It can include subcategories such as:
@@ -52,10 +56,8 @@ This category will provide a space for Pokémon TCG players to connect and engag
 - **Social Media Groups:**  
   Provide links to official or popular social media groups dedicated to the Pokémon TCG.
 
-- **Local Events:**  
-  Share information about local Pokémon TCG events, tournaments, and meetups.
-
-[Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/blob/main/communities.md)
+[Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/blob/main/communities.md)  
+&nbsp;  
 
 # **Developers:**  
 This category will cater to developers and provide resources for APIs, GitHub projects, and other development-related aspects. It can include subcategories such as:
@@ -69,4 +71,4 @@ This category will cater to developers and provide resources for APIs, GitHub pr
 - **GitHub Projects:**  
   Showcase open-source projects and repositories on GitHub related to the Pokémon TCG. Developers can contribute to existing projects or create their own.
 
-[Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/edit/main/developers.md)
+[Click Here](https://github.com/WyldKnyght/PTCG_Wyld_PokemonTCG_Wyky/edit/main/developers.md)  
